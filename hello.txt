@@ -16,5 +16,5 @@ hello,pycro! hello,git!
 hello,pycro! hello,git! master
 hello,pycro! hello,git! hot-fix
 11111111111111111
-22222222222222222 by pyc
+22222222222222222 by hutao
 33333333333333333 by jack
